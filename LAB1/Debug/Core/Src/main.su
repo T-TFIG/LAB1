@@ -1,0 +1,13 @@
+../Core/Src/main.c:76:6:assign	16	static
+../Core/Src/main.c:83:6:set	24	static
+../Core/Src/main.c:88:6:reset	24	static
+../Core/Src/main.c:93:6:get_val	24	static
+../Core/Src/main.c:112:5:see_val	16	static
+../Core/Src/main.c:120:6:light_an_led	16	static
+../Core/Src/main.c:125:6:lid_an_led	16	static
+../Core/Src/main.c:130:6:check_it	8	static
+../Core/Src/main.c:319:5:main	16	static
+../Core/Src/main.c:430:9:SystemClock_Config	88	static
+../Core/Src/main.c:477:16:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:509:16:MX_GPIO_Init	48	static
+../Core/Src/main.c:579:9:Error_Handler	4	static,ignoring_inline_asm
